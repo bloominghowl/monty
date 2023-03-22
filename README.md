@@ -1,3 +1,4 @@
+0x19. C - Stacks, Queues - LIFO, FIFO
 General
 What do LIFO and FIFO mean
 What is a stack, and when to use it
